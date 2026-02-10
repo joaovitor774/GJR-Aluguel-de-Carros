@@ -13,7 +13,7 @@ erDiagram
 
     CARRO {
         string id
-        string modelo
+        string model
         string placa
         float valorDiaria
     }
