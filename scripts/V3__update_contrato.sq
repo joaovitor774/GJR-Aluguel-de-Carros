@@ -1,0 +1,3 @@
+UPDATE contrato
+SET valor_total = 1600
+WHERE id = 1;
