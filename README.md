@@ -14,6 +14,7 @@ Gerenciar:
 ## 👥 Público-alvo
 - Pessoas comuns
 - Motoristas de aplicativos
+
 Trabalho de banco de dados
 ````mermaid
 erDiagram
