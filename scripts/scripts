@@ -1,0 +1,16 @@
+
+---
+
+# 🧠 SCRIPTS SQL
+
+## 🔹 V1__create_table_pessoa.sql
+
+```sql
+CREATE TABLE IF NOT EXISTS pessoa (
+    id SERIAL PRIMARY KEY,
+    cpf VARCHAR(11) UNIQUE NOT NULL,
+    nome VARCHAR(80) NOT NULL,
+    sobrenome VARCHAR(80),
+    email VARCHAR(100) UNIQUE,
+    telefone VARCHAR(20)
+);
