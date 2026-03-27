@@ -1,4 +1,19 @@
-# GJR-Aluguel-de-Carros
+# 🚗 AlugaCar
+
+## 📌 Descrição
+Sistema de banco de dados para uma empresa de locação de veículos.
+
+## 🎯 Objetivo
+Gerenciar:
+- Clientes
+- Funcionários
+- Veículos
+- Contratos de locação
+- Pagamentos
+
+## 👥 Público-alvo
+- Pessoas comuns
+- Motoristas de aplicativos
 Trabalho de banco de dados
 ````mermaid
 erDiagram
